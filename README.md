@@ -36,6 +36,8 @@ This project was developed to:
 ## 👤 Author
 **Name:** Tariq Mehmood  
 **CMS ID:** 023-23-0127  
+**Name:** Asad Ali  
+**CMS ID:** 023-23-0063 
 
 ---
 
